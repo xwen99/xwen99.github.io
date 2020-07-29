@@ -1,0 +1,48 @@
+.publication {
+  clear: both;
+  font-family: serif;
+  margin-bottom: 1em;
+}
+.publication::after {
+  clear: both;
+  content: "";
+  display: table;
+}
+@media (min-width: 48em) {
+  .publication {
+    margin-left: 15.6em;
+  }
+}
+.publication div.left {
+  display: none;
+  float: left;
+  width: 15em;
+}
+@media (min-width: 48em) {
+  .publication div.left {
+    display: block;
+    margin-right: 0.5em;
+    margin-left: -15.6em;
+  }
+}
+.publication div.left img {
+  max-height: 10em;
+}
+.publication div.right {
+  width: 100%;
+}
+.publication div.right h3 {
+  font-family: serif;
+  font-size: x-large;
+}
+.publication div.right p.venue {
+  font-weight: bold;
+  font-size: medium;
+}
+.publication a {
+  color: #494e52;
+}
+.publication a:hover {
+  color: #bdc1c4;
+  text-decoration: none;
+}

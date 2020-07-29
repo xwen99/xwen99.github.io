@@ -1,0 +1,52 @@
+.education {
+  clear: both;
+  font-family: serif;
+  margin-bottom: 1em;
+}
+.education::after {
+  clear: both;
+  content: "";
+  display: table;
+}
+@media (min-width: 48em) {
+  .education {
+    margin-left: 9em;
+  }
+}
+.education div.left {
+  display: none;
+  float: left;
+  width: 7em;
+  height: 7em;
+}
+@media (min-width: 48em) {
+  .education div.left {
+    display: block;
+    margin-right: 0.5em;
+    margin-left: -9em;
+  }
+}
+.education div.left img {
+  max-height: 6em;
+  max-width: 7em;
+}
+.education div.right {
+  width: 100%;
+  height: 7em;
+}
+.education div.right h3 {
+  font-family: serif;
+  font-size: x-large;
+}
+.education div.right p.venue {
+  font-weight: bold;
+  font-size: medium;
+  margin: auto;
+}
+.education a {
+  color: #494e52;
+}
+.education a:hover {
+  color: #bdc1c4;
+  text-decoration: none;
+}

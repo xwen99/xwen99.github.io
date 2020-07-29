@@ -1,0 +1,10 @@
+# main links links
+main:
+  - title: "Awards"
+    url: "/awards/"
+
+  - title: "Publications"
+    url: /publications/
+
+  - title: "Projects"
+    url: /projects/
