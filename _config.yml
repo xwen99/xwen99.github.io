@@ -19,9 +19,9 @@ url: "https://wen-xin.info" # the base hostname & protocol for your site
 
 # Site Author
 author:
-  name: "Xin Wen"
+  name: "温鑫<br>Xin Wen"
   avatar: "/assets/images/by-the-sea.jpg"
-  bio: "Undergraduate student at Tongji University<br>Intern at ByteDance AI Lab"
+  bio: "Intern at ByteDance AI Lab<br>Undergraduate student at Tongji University"
   location: "Shanghai, China"
   employer:
   pubmed:

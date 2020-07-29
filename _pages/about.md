@@ -9,18 +9,28 @@ redirect_from:
 
 ## About me
 
-I am a third year undergraduate majored in Computer Science at Tongji University, advised by [Prof. Yin Wang](http://web.eecs.umich.edu/~yinw/). 
-I started my internship at the Visual Computing Group of ByteDance AI-Lab from Jan. 2020, advised by [Dr. Jie Shao](https://www.linkedin.com/in/jieshao/).
+I am a third year undergraduate student majored in Computer Science at Tongji University, advised by [Prof. Yin Wang](http://web.eecs.umich.edu/~yinw/). 
+Besides, I am a intern at the Visual Computing Group of ByteDance AI Lab since Jan. 2020, advised by [Dr. Jie Shao](https://www.linkedin.com/in/jieshao/).
 
-My research topics include:
+My research interest include but not limited to:
 
 - Content-Based Video Retrieval
-- Self-Supervised Learning
+- Self-Supervised Representation Learning
 - Human Action Recognition
 
 ## News
 
-**[Jul. 2020]** Our team ranked 2nd in the first Visual Inductive Priors for Data-Efficient Computer Vision challenges Image Classification track in VIPriors workshop inconjunction with ECCV2020 [link](https://vipriors.github.io/challenges/#final-rankings).
+**[July 2020]** One comprehensive tech blog about Transformer was published at Zhihu, welcome reading and discussion. \[[link](https://zhuanlan.zhihu.com/p/164568326)\]
+
+**[July 2020]** Our team ranked 2nd place in the ECCV 2020 Workshop VIPriors Image Classification Challenge. \[[link](https://vipriors.github.io/challenges/#final-rankings)\]\[[code](https://github.com/DTennant/distill_visual_priors)\]
+
+**[June 2020]** I was awarded Qidi Scholarship (Established by Ms. Qidi Wu, former Deputy Minister of the Ministry of Education of China) of Tongji University (Top 1%).
+
+**[May 2020]** Our team won 15th place out of 1514 teams in the Machine Reading Comprehension Task of the 2020 Language and Intelligence Challenge. \[[code](https://github.com/xwen99/DuReader-Robust-With-Paddlehub)\]
+
+**[Nov. 2019]** Our team won 8th place out of 705 teams in the Video Copy Detection Track of the 2019 CCF Big Data & Computing Intelligence Contest. \[[code](https://github.com/xwen99/CCF-BDCI-VideoCopyDetection)\]
+
+**[Nov. 2019]** Our team won championship in the International Data Science Hackathon (Chinese region) hosted by [Covestro](https://www.covestro.com/en). See you in Germany~🇩🇪\[[link](https://www.linkedin.com/feed/update/urn:li:activity:6599863028911575040/)\]\[[code](https://github.com/ganler/ParticleFormationChampionSolution-TJ)\]
 
 ## Education & Internship
 
