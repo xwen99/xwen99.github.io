@@ -9,8 +9,8 @@ redirect_from:
 
 ## About me
 
-I am a third year undergraduate student majored in Computer Science at Tongji University, advised by [Prof. Yin Wang](http://web.eecs.umich.edu/~yinw/). 
-Besides, I am a intern at the Visual Computing Group of ByteDance AI Lab since Jan. 2020, advised by [Dr. Jie Shao](https://www.linkedin.com/in/jieshao/).
+I am a 3rd year undergraduate student majored in Computer Science at Tongji University, supervised by [Prof. Yin Wang](http://web.eecs.umich.edu/~yinw/). 
+Besides, I am an intern at the Visual Computing Group of ByteDance AI Lab since Jan. 2020, supervised by [Dr. Jie Shao](https://www.linkedin.com/in/jieshao/).
 
 My research interest include but not limited to:
 
@@ -20,7 +20,7 @@ My research interest include but not limited to:
 
 ## News
 
-**[July 2020]** One comprehensive tech blog about Transformer was published at Zhihu, welcome reading and discussion. \[[link](https://zhuanlan.zhihu.com/p/164568326)\]
+**[July 2020]** One comprehensive tech blog about Transformers was published at Zhihu, welcome reading and discussion. \[[link](https://zhuanlan.zhihu.com/p/164568326)\]
 
 **[July 2020]** Our team ranked 2nd place in the ECCV 2020 Workshop VIPriors Image Classification Challenge. \[[link](https://vipriors.github.io/challenges/#final-rankings)\]\[[code](https://github.com/DTennant/distill_visual_priors)\]
 
