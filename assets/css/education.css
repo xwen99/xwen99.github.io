@@ -29,6 +29,8 @@
 .education div.left img {
   max-height: 6em;
   max-width: 7em;
+  display: block;
+  margin: auto;
 }
 .education div.right {
   width: 100%;
