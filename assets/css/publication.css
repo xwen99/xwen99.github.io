@@ -27,6 +27,7 @@
 }
 .publication div.left img {
   max-height: 10em;
+  max-width: 15em;
 }
 .publication div.right {
   width: 100%;
