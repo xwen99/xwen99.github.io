@@ -20,6 +20,8 @@ My research interest include but not limited to:
 
 ## News
 
+**[Aug. 2020]** Two papers are published at arXiv.
+
 **[July 2020]** One comprehensive tech blog about Transformers was published at Zhihu, welcome reading and discussion. \[[Link](https://zhuanlan.zhihu.com/p/164568326)\]
 
 **[July 2020]** Our team ranked 2nd place in the ECCV 2020 Workshop VIPriors Image Classification Challenge. \[[Link](https://vipriors.github.io/challenges/#final-rankings)\]\[[Paper](https://arxiv.org/abs/2008.00261)\]\[[Code](https://github.com/DTennant/distill_visual_priors)\]
