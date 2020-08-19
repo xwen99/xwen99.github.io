@@ -18,6 +18,8 @@ My research interest include but not limited to:
 - (Multi-Modal) Self-Supervised Representation Learning
 - Human Action Recognition
 
+I am seeking a Ph.D. position.
+
 ## News
 
 **[Aug. 2020]** Two papers are published at arXiv.
