@@ -1,10 +1,13 @@
 # main links links
 main:
   - title: "Awards"
-    url: "/awards/"
+    url: /awards/
 
   - title: "Publications"
     url: /publications/
 
-  - title: "Curriculum Vitae"
+  - title: "Projects"
+    url: /projects/
+
+  - title: "CV"
     url: /files/Xin Wen - CV.pdf
