@@ -8,7 +8,7 @@ permalink: /projects/
 
 * ECCV 2020 Workshop VIPriors Image Classification Challenge (June 2020 – July 2020)
   * We present a novel two-phase pipeline that leverages self-supervised learning and knowledge distillation to improve the generalization ability of CNN models for image classification under the data-deficient setting.
-  * Together with other tricks, we won 2nd place in the VIPriors image classification challenge. Our co-authored paper Distilling Visual Priors from Self-Supervised Learning has been accepted by ECCV 2020 Workshop VIPriors. \[[Paper](https://arxiv.org/abs/2008.00261)\]
+  * Together with other tricks, we won 2nd place in the VIPriors image classification challenge with only two ensembled models. Our co-authored paper *Distilling Visual Priors from Self-Supervised Learning* has been accepted by ECCV 2020 Workshop VIPriors. \[[Paper](https://arxiv.org/abs/2008.00261)\]
 
 * Video Copy Detection Track of 2019 CCF Big Data & Computing Intelligence Contest (Oct. 2019 – Nov. 2019)
   * Propose chamfer similarity for NDVR and perform frame-level video matching with maximum flow algorithm.

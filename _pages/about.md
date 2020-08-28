@@ -22,7 +22,9 @@ I am seeking a Ph.D. position.
 
 ## News
 
-**[Aug. 2020]** Two papers are published at arXiv.
+**[Aug. 2020]** I will serve as co-mentor for project Video Similariy-Based Event Clustering of the Algorithm Track of 2020 Byte Camp held by ByteDance Inc.
+
+**[Aug. 2020]** Two papers are made public at arXiv.
 
 **[July 2020]** One comprehensive tech blog about Transformers was published at Zhihu, welcome reading and discussion. \[[Link](https://zhuanlan.zhihu.com/p/164568326)\]
 
