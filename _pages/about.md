@@ -2,14 +2,14 @@
 layout: default
 crawlertitle: "Xin Wen's Homepage"
 permalink: /
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
 ## About me
 
-I am a 3rd year undergraduate student majored in Computer Science at Tongji University, supervised by [Prof. Yin Wang](http://web.eecs.umich.edu/~yinw/). 
+I am a 3rd year undergraduate student majored in Computer Science at Tongji University, supervised by [Prof. Yin Wang](http://web.eecs.umich.edu/~yinw/).
 Besides, I am an intern at the Visual Computing Group of ByteDance AI Lab since Jan. 2020, supervised by [Dr. Jie Shao](https://www.linkedin.com/in/jieshao/).
 
 My research interest include but not limited to:
@@ -18,7 +18,7 @@ My research interest include but not limited to:
 - (Multi-Modal) Self-Supervised Representation Learning
 - Human Action Recognition
 
-I am seeking a Ph.D. position.
+I am seeking a Ph.D. position in Computer Vision, Graphics, Robotics, etc.
 
 ## News
 
