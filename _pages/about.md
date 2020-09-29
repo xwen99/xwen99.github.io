@@ -9,8 +9,8 @@ redirect_from:
 
 ## About me
 
-I am a 3rd year undergraduate student majored in Computer Science at Tongji University, supervised by [Prof. Yin Wang](http://web.eecs.umich.edu/~yinw/).
-Besides, I am an intern at the Visual Computing Group of ByteDance AI Lab since Jan. 2020, supervised by [Dr. Jie Shao](https://www.linkedin.com/in/jieshao/).
+I am a senior undergraduate student majored in Computer Science at Tongji University, supervised by [Prof. Yin Wang](http://web.eecs.umich.edu/~yinw/).
+Besides, I am an intern at the Visual Computing Group of ByteDance AI Lab since Jan. 2020, supervised by [Dr. Jie Shao](https://www.linkedin.com/in/jieshao/). I also have close research relationship with [Bingchen Zhao](http://info.zhaobc.me/).
 
 My research interest include but not limited to:
 
