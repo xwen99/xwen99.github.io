@@ -12,7 +12,7 @@ permalink: /publications/
   <div class="right"><h4>Distilling Visual Priors from Self-Supervised Learning</h4>
     <a class="author" href="https://info.zhaobc.me/">Bingchen Zhao</a>, 
     <b><a class="author">Xin Wen</a></b>
-    <p class="venue">arXiv preprint&nbsp;
+    <p class="venue">ECCVW 2020&nbsp;
       <a style="text-decoration: underline" href="https://arxiv.org/abs/2008.00261">[Paper]</a>
       <a style="text-decoration: underline" href="https://github.com/DTennant/distill_visual_priors">[Code]</a>
     </p>
