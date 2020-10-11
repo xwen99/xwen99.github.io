@@ -15,7 +15,8 @@ permalink: /projects/
   * Implement all the code from scratch by myself, won 8th out of 705 teams. \[[Code](https://github.com/xwen99/CCF-BDCI-VideoCopyDetection)\]
 
 * Chinese Chess Engine Construction
-  * Developed a Chinese Chess Engine featured by its high-efficiency best move searching algorithm \[[Code](https://github.com/xwen99/starfish)\]
+  * Developed a Chinese Chess Engine featured by its high-efficiency adversarial search algorithm \[[Code](https://github.com/xwen99/starfish)\]
+  *	Served as teaching assistant, helped build the Chinese Chess AI competition platform
   * Served as team leader, won the 1st place in the final Chinese Chess AI contest in the course
 
 * FPGA-Based Smart Car (Dec. 2018 - Jan. 2019)
