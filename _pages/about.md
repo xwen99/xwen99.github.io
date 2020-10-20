@@ -15,8 +15,8 @@ Besides, I am an intern at the Visual Computing Group of ByteDance AI Lab since 
 My research interests include but not limited to:
 
 - Video Understanding
+- Computer Vision and Deep Learning
 - (Multi-Modal) Self-Supervised Representation Learning
-- Pattern Recognition and Machine Learning
 - Computer Graphics
 
 I am seeking a Ph.D. (or MSc by research) position starting from 2021 fall.
