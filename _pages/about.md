@@ -12,14 +12,17 @@ redirect_from:
 I am a senior undergraduate student majored in Computer Science at Tongji University, supervised by [Prof. Yin Wang](http://web.eecs.umich.edu/~yinw/).
 Besides, I am an intern at the Visual Computing Group of ByteDance AI Lab since Jan. 2020, supervised by [Dr. Jie Shao](https://www.linkedin.com/in/jieshao/). I also have close research relationship with [Bingchen Zhao](http://info.zhaobc.me/).
 
-My research interests include but not limited to:
+I am determined to equip computers with the same visual capabilities as humans (perceiving & reasoning). To build intelligent machines that can not only perceive the visual world, but also tackle challenging reasoning problems under uncertainty, I pursue the answers via studies of Computer Vision, Machine Learning, and Interdisciplinary Data Science (CV & NLP).
 
-- Video Understanding
-- Computer Vision and Deep Learning
-- (Multi-Modal) Self-Supervised Representation Learning
-- Computer Graphics
+More speciﬁcally, I am interested in designing scalable learning algorithms to form structured representations of the visual world in multiple modalities to analyze massive video datasets with complex structures. In particular, I eager to advance methods in the following research areas:
 
-I am seeking a Ph.D. (or MSc by research) position starting from 2021 fall.
+- Structured Video Understanding
+- Multi-Modal/Self-Supervised Representation Learning
+- Long-Term Video Semantic Understanding
+
+Besides, I am also open to other relevant interesting topics, such as Image Processing, 3D Vision, and Computer Graphics, etc. 
+
+**I am seeking a Ph.D. (or MSc by research) position starting from 2021 fall.**
 
 ## News
 
