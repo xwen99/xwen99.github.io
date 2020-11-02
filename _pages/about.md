@@ -26,6 +26,8 @@ Besides, I am also open to other relevant interesting topics, such as Image Proc
 
 ## News
 
+**[Nov. 2020]** Our paper "Temporal Context Aggregation for Video Retrieval with Contrastive Learning" has been accepted by WACV 2021! \[[Paper](https://arxiv.org/abs/2008.01334)\]
+
 **[Aug. 2020]** I will serve as co-mentor for project Video Similariy-Based Event Clustering of the Algorithm Track of 2020 Byte Camp held by ByteDance Inc.
 
 **[Aug. 2020]** Two papers are made public at arXiv.
